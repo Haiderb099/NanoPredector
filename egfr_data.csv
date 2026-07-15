@@ -1,0 +1,8 @@
+Molecule_Name,SMILES,Binding_Affinity
+Gefitinib,COC1=C(OCCCN)C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)F)Cl,-8.5
+Erlotinib,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC,-8.2
+Osimertinib,CN(C)C=CC(=O)NC1=C(C=C(C(=C1)NC2=NC=CC(=N2)N(C)C3=CC=CC=C3)OC)N(C)CCN(C)C,-9.1
+Lapatinib,CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl,-8.8
+Afatinib,CN(C)C=CC(=O)NC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)F)Cl)O[C@H]4CCOC4,-8.6
+Mannose,C(C1C(C(C(C(O1)O)O)O)O)O,-3.1
+Rice_Phenolic,C1=CC(=C(C=C1C=CC(=O)O)O)OC,-4.5
