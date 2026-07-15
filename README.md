@@ -1,2 +1,0 @@
-# NanoPredector
-helps cancer detection 
